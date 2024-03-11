@@ -7,7 +7,7 @@
     <title></title>
 </head>
 <body>
-    <h1> DescarteiPVC.</h1>
+    <h1> VipImports.</h1>
     
     <p> aqui mostraremos um pouco de nosso site</p>
     
