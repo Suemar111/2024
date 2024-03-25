@@ -2,9 +2,10 @@
 body
 {
   background-color: purple;
+  background-image:linear-gradient(red,black);
 background-image:linear-gradient(red,black);
-}
-color: white;
+
+
 
 font-size: 20pt
 font_family: Arial;
