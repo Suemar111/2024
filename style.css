@@ -1,8 +1,9 @@
 @chanset "UTF-8";
 body
 {
-  background-color:black;
-
+  background-color: purple;
+background-image:linear-gradient(red,black);
+  
 color: white;
 
 font-size: 20pt
