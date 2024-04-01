@@ -2,11 +2,11 @@
 body
 {
   background-color: purple;
-  background-image:linear-gradient(yellow,green);
-background-image:linear-gradient(yellow,green);
+  background-image:linear-gradient(black,white);
+background-image:linear-gradient(black,white);
 
 
 
-font-size: 20pt
+font-size: 50pt
 font_family: Arial;
 }
